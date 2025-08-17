@@ -6,7 +6,7 @@ The **Applicant Tracking System (ATS)** is a web-based application designed to s
 Built with modern web technologies, this ATS ensures scalability, user-friendly interfaces, and efficient candidate management.
 
 --- 
-## Check Live Preview: https://v0.app/chat/live-preview-ats-miwRIlcNRlW?b=b_VrkcCQNuDYC&f=1
+## Check Live Preview: https://resumeatsscore.vercel.app/
 
 ## Images
 <img width="1330" height="562" alt="scrnli_Fq0WnW3NBa7E2m" src="https://github.com/user-attachments/assets/1ba64f37-03b5-4b81-8fc2-c78655c2c853" />
